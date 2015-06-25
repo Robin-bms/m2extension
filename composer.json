@@ -1,11 +1,11 @@
 {
-  "name": "m2demo/module-m2-extension",
+  "name": "robin-bms/module-m2-extension",
   "description": "Bare-bones demo extension",
   "require": {
     "magento/magento-composer-installer": "*"
   },
   "type": "magento2-module",
-  "version": "1.1",
+  "version": "1.0",
   "extra": {
     "map": [
       [
